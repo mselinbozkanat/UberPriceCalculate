@@ -1,0 +1,14 @@
+C:\Users\Section2\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Section2\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Section2\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Section2\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Section2\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\ensar\Desktop\Taxi Price\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\ensar\Desktop\Taxi Price\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\ensar\Desktop\Taxi Price\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\ensar\Desktop\Taxi Price\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\ensar\Desktop\Taxi Price\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\ensar\Desktop\Taxi Price\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\ensar\Desktop\Taxi Price\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
